@@ -3,7 +3,7 @@
 **Auteur :** Loubna Taleb  
 **Date :** 03 Décembre 2023  
 
-## 🎯 Objectif
+##  Objectif
 Ce TP prolonge le **TP1** en introduisant deux types de conditions aux limites :  
 - **Problème de Neumann** (conditions sur les dérivées aux bords)  
 - **Problème de Dirichlet** (conditions sur les valeurs aux bords)  
@@ -12,7 +12,7 @@ L’objectif est de comparer la formulation variationnelle, l’implémentation 
 
 ---
 
-## 📐 Étapes principales
+## Étapes principales
 
 ### 1. Problème de Neumann
 - Équation considérée :  
